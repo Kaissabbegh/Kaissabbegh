@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Kais Sabbegh
+# 👋 Hi there! I'm Younes
 
 🎓 I'm a Master's student pursuing an **MSc in Computing in Artificial Intelligence** at Britts Imperial University College (UAE), with a passion for solving real-world problems using AI, machine learning, and full-stack web development.
 
