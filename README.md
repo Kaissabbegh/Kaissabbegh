@@ -1,13 +1,44 @@
-👋 Hi there! I'm Kais Sabbegh, a passionate computer science student with a focus on web development.
+# 👋 Hi there! I'm Kais Sabbegh
 
-🌐 I specialize in building web applications and enjoy working with technologies like HTML, CSS, JavaScript, PHP and frameworks like React, Bootstrap, Expressjs and Node.js. Most of my projects are web-related, and I love exploring new tools and technologies to expand my skillset.
+🎓 I'm a Master's student pursuing an **MSc in Computing in Artificial Intelligence** at Britts Imperial University College (UAE), with a passion for solving real-world problems using AI, machine learning, and full-stack web development.
 
-🎓 Currently, I'm pursuing a degree in Computer Science and constantly learning new concepts and techniques to enhance my knowledge.
+---
 
-🚀 I'm an active contributor to open source projects and enjoy collaborating with other developers to create innovative solutions. You can find some of my projects and contributions on my [GitHub profile](https://github.com/kaissabbegh).
+## 🧠 What I Do
 
-📫 Let's connect! Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/kais-sabbegh-a9a817232/) to discuss opportunities, collaborations, or just have a chat about all things tech.
+💻 I specialize in:
+- **Artificial Intelligence & Machine Learning**  
+  Python • Scikit-learn • TensorFlow • OpenCV • HuggingFace • LangChain
+- **Full-Stack Web Development**  
+  React.js • Django • HTML/CSS • JavaScript • Bootstrap • PHP (legacy)
 
-🌱 As a lifelong learner, I'm always seeking new challenges and exploring different areas of web development. Currently, I'm focusing on improving my skills in areas such as backend development and UI/UX design.
+I build intelligent applications that combine smart backends with clean user interfaces, and I'm constantly exploring new technologies.
 
-🌟 Thanks for visiting my GitHub profile! Feel free to explore my repositories and don't hesitate to reach out if you have any questions or if there's anything I can assist you with.
+---
+
+## 🚀 What I'm Working On
+
+- 🤖 Chatbots using OpenAI API & LangChain  
+- 🧠 ML models for classification, computer vision, and automation  
+- 🌐 Full-stack web apps using **React + Django**  
+
+---
+
+## 📂 Featured Projects
+
+🔹 **Face Mask Detection** – Real-time detection using TensorFlow & OpenCV  
+🔹 **AI Chatbot Assistant** – Built with Python, LangChain & OpenAI API  
+🔹 **Task Manager Web App** – Built using React frontend + Django REST API backend  
+🔹 [More on my GitHub Repos](https://github.com/Kaissabbegh?tab=repositories)
+
+---
+
+## 📬 Let's Connect
+
+- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/younes-sabbegh-a9a817232/)
+- 🧠 [GitHub Portfolio](https://github.com/Kaissabbegh)
+- 📧 Open to **part-time**, **remote**, and **freelance** opportunities — available full weekdays
+
+---
+
+🌱 I believe in continuous learning, open collaboration, and building practical, scalable tech. Thanks for visiting my GitHub!
