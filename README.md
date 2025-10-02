@@ -24,15 +24,6 @@ I build intelligent applications that combine smart backends with clean user int
 
 ---
 
-## 📂 Featured Projects
-
-🔹 **Face Mask Detection** – Real-time detection using TensorFlow & OpenCV  
-🔹 **AI Chatbot Assistant** – Built with Python, LangChain & OpenAI API  
-🔹 **Task Manager Web App** – Built using React frontend + Django REST API backend  
-🔹 [More on my GitHub Repos](https://github.com/Kaissabbegh?tab=repositories)
-
----
-
 ## 📬 Let's Connect
 
 - 🔗 [LinkedIn Profile](https://www.linkedin.com/in/younes-sabbegh-a9a817232/)
