@@ -10,7 +10,7 @@
 - **Artificial Intelligence & Machine Learning**  
   Python • Scikit-learn • TensorFlow • OpenCV • HuggingFace • LangChain
 - **Full-Stack Web Development**  
-  React.js • Django • HTML/CSS • JavaScript • Bootstrap
+  React.js • Django • HTML/CSS • JavaScript • Tailwind
 
 I build intelligent applications that combine smart backends with clean user interfaces, and I'm constantly exploring new technologies.
 
